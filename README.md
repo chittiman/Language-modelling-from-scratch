@@ -1,6 +1,6 @@
 # Language-modelling-from-scratch
-
 This project is about language modelling on Indian Ex-PM Mr.Manmohan singh speeches
+<img src="https://www.theindianwire.com/wp-content/uploads/2018/08/manmohan.jpg" width="50%">
 
 Note - This is my 1st project just after I completed my NLP course. I wanted to learn how to create an entire project from scratch. I made many mistakes in this, but it was a great learning experience. Wherever possible in the notebook, the mistakes were noted and the better alternatives are explained.
 
